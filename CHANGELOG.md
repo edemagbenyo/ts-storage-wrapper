@@ -1,5 +1,11 @@
 # @edemagbenyo/ts-storage-wrapper
 
+## 0.0.3
+
+### Patch Changes
+
+- 4895ad3: update name
+
 ## 0.0.2
 
 ### Patch Changes
