@@ -1,7 +1,11 @@
 {
   "name": "@edemagbenyo/ts-storage-wrapper",
+<<<<<<< HEAD
   "private": "false",
   "version": "0.0.1",
+=======
+  "version": "0.0.2",
+>>>>>>> ede892ea2ba589aec45d12f982ee4c52a1fee9f4
   "description": "Wrapper around TS ",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
