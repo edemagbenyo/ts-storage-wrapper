@@ -1,5 +1,12 @@
 # @edemagbenyo/ts-storage-wrapper
 
+## 0.0.7
+
+### Patch Changes
+
+- 1ee5901: update readme
+- 729c589: enable declaration
+
 ## 0.0.6
 
 ### Patch Changes
