@@ -1,5 +1,11 @@
 # @edemagbenyo/ts-storage-wrapper
 
+## 0.0.5
+
+### Patch Changes
+
+- 29cd767: remove private
+
 ## 0.0.4
 
 ### Patch Changes
