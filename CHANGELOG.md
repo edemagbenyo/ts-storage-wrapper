@@ -1,5 +1,11 @@
 # @edemagbenyo/ts-storage-wrapper
 
+## 0.0.4
+
+### Patch Changes
+
+- 502ad15: Update main logic
+
 ## 0.0.3
 
 ### Patch Changes
