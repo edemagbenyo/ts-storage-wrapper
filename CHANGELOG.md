@@ -1,5 +1,11 @@
 # @edemagbenyo/ts-storage-wrapper
 
+## 0.0.6
+
+### Patch Changes
+
+- 25aaf7e: Implement StorageWrapper core function
+
 ## 0.0.5
 
 ### Patch Changes
