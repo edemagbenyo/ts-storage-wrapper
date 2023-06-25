@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, it } from "vitest";
-import StorageWrapper from ".";
+import StorageWrapper from "./storageWrapper";
 
 describe("StorageWrapper", () => {
   // let storageWrapper: StorageWrapper;
